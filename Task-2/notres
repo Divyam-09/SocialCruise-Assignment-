@@ -1,0 +1,26 @@
+deployment id:
+AKfycbytSyWuKW-PpNpto-l5lS0EqBLC4JqpbvycL8bhLXyxqhmuMgWrW7BCRQSBgo3ZAjk\_
+
+Web app URL:
+https://script.google.com/macros/s/AKfycbytSyWuKW-PpNpto-l5lS0EqBLC4JqpbvycL8bhLXyxqhmuMgWrW7BCRQSBgo3ZAjk_/exec
+
+// const form = document.getElementById("form")
+// const submitButton = document.getElementById("submit")
+// const scriptURL = 'https://script.google.com/macros/s/AKfycbytSyWuKW-PpNpto-l5lS0EqBLC4JqpbvycL8bhLXyxqhmuMgWrW7BCRQSBgo3ZAjk_/exec'
+
+// form.addEventListener('submit', e => {
+// submitButton.disabled = true
+// e.preventDefault()
+// let requestBody = new FormData(form)
+// fetch(scriptURL, { method: 'POST', body: requestBody})
+// .then(response => {
+// alert('Details sent successfully!', response)
+// submitButton.disabled = false
+// })
+// .catch(error => {
+// alert('unable to sent your data!', error.message)
+// submitButton.disabled = false
+
+// }
+// )
+// })
